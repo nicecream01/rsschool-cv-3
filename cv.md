@@ -1,4 +1,4 @@
-# [rsschool-cv] (https://dianazhusupbek.github.io/rsschool-cv/cv)
+# [rsschool-cv](https://dianazhusupbek.github.io/rsschool-cv/cv)
 
 # Diana Zhusupbekova
 ----------
