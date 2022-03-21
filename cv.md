@@ -36,4 +36,15 @@ function zeroArray(m, n) {
 }
 let matrix = zeroArray(3, 2);
 console.log(matrix);
+
 ```
+### Courses:
+* Sololearn - [Responsive Web Design](https://www.sololearn.com/Certificate/1162-20437068/pdf/)
+* FCC- [Responsive Web Design](https://freecodecamp.org/certification/janjanka/responsive-web-design)
+* Stepik - [HTML and CSS](https://stepik.org/certificate/68245088d3b30995cf498f83c37ce1865bd49b1a.pdf)
+
+### Languages:
+* Kyrgyz - Native
+* Russian - Fluent
+* English - Intermediate
+* Chinese - Pre-advanced
